@@ -1,0 +1,20 @@
+{
+  "name": "file-read-write",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "write-async": "node write-async.js",
+    "write-sync": "node write-sync.js",
+    "read-file-sync": "node read-file-sync.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JamesDaniel/file-read-write-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JamesDaniel/file-read-write-js/issues"
+  },
+  "homepage": "https://github.com/JamesDaniel/file-read-write-js#readme"
+}
